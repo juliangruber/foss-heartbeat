@@ -130,6 +130,7 @@ def graphMergeDelay(coords):
         bom = eom
         if eom > end:
             break
+            # lel
 
     # Scatter chart - x is creation date, y is number of days open
     data = [
